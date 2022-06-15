@@ -4,7 +4,7 @@ db.alunos.find({
     "curso": {
         "nome": "Sistemas da Informação"
     },
-    "notas": [10.0, 9.0, 4.5],
+    "notas": [10.0, 9.0, 4.5, 6.0],
     "habilidades": [
         {
             "nome": "ingles",
